@@ -1,0 +1,22 @@
+# Python & env
+__pycache__/
+*.py[cod]
+*.egg-info/
+insta_env/
+env/
+venv/
+.Python
+
+# Secrets & sessions
+.env
+.env.*
+session.json
+
+# Media and logs (don't upload images or logs)
+posts/
+logs/
+
+# Editor & OS files
+.vscode/
+.DS_Store
+Thumbs.db
